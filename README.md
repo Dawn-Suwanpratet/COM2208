@@ -1,0 +1,1 @@
+![Failed to load the image](img/Len_45_trained_art.jpg)
