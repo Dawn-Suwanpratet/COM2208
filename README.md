@@ -1,10 +1,10 @@
 # งานที่ 1
 
-ความหมายของ
-
-- [เทคโนโลยี](#เทคโนโลยี)
-- [นวัตกรรม (Innovation Framework)](#นวัตกรรม-innovation-framework)
-- [Design Thinking](#design-thinking)
+> ## ความหมายของ
+>
+> - [เทคโนโลยี](#เทคโนโลยี)
+> - [นวัตกรรม (Innovation Framework)](#นวัตกรรม-innovation-framework)
+> - [Design Thinking](#design-thinking)
 
 ## เทคโนโลยี
 
